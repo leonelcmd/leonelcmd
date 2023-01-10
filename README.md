@@ -1,12 +1,12 @@
 
 ### Olá pessoas desenvolvedoras, me chamo Leonel Domagalski 🤟
 
+Atualmente estou desenvolvendo automação de testes com Cypress e estudando NodeJS e Angular para desenvolver projetos pessoais.
+
 Sou brasileiro e atualmente trabalho com testes automatizados, você pode se conectar comigo pelos seguintes meios:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](domagalski.leonel@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonel.domagalski/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-domagalski/)
-[![Yt Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC6s0-kpIaHyu5X5EXen1uhQ)
 
 I can also speak English and Italian, so if you're interested in contact me for some job oportunity or other reason feel free to e-mail me 🙂
 
@@ -22,7 +22,7 @@ I can also speak English and Italian, so if you're interested in contact me for 
 ![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-    
-Acredito no poder da tecnologia como aliada na solução de problemas e na melhora da qualidade de vida das pessoas.
+   
+Me mande um e-mail: domagalski.leonel@gmail.com
 
-Atualmente estou desenvolvendo automação de testes com Cypress e estudando NodeJS e Angular para desenvolver projetos pessoais.
+Ouça minhas playlists - [![Yt Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC6s0-kpIaHyu5X5EXen1uhQ)
