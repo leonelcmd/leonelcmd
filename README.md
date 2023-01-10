@@ -1,7 +1,7 @@
 
 ### Olá pessoas desenvolvedoras, me chamo Leonel Domagalski 🤟
 
- -Sou brasileiro e atualmente trabalho com testes automatizados, você pode se conectar comigo pelos seguintes meios:
+Sou brasileiro e atualmente trabalho com testes automatizados, você pode se conectar comigo pelos seguintes meios:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](domagalski.leonel@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](domagalski_leonel#5507)
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-domagalski/)
 [![Yt Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC6s0-kpIaHyu5X5EXen1uhQ)
 
- -I can also speak English and Italian, so if you're interested in contact me for some job oportunity or other reason feel free to e-mail me 🙂
+I can also speak English and Italian, so if you're interested in contact me for some job oportunity or other reason feel free to e-mail me 🙂
 
 ![Leonel Domagalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonelcmd&show_icons=true&theme=dark)
 
