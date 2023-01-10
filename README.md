@@ -23,6 +23,6 @@ I can also speak English and Italian, so if you're interested in contact me for 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
    
-Me mande um e-mail: domagalski.leonel@gmail.com
-
-Ouça minhas playlists - [![Yt Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC6s0-kpIaHyu5X5EXen1uhQ)
+#### Me mande um e-mail: domagalski.leonel@gmail.com
+#### Ouça minhas playlists
+[![Yt Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC6s0-kpIaHyu5X5EXen1uhQ)
