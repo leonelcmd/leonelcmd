@@ -1,5 +1,5 @@
 
-### Olá pessoas desenvolvedoras, me chamo Leonel Domagalski 🤟
+### Olá, me chamo Leonel Domagalski 🤟
 
 Atualmente estou desenvolvendo automação de testes com Cypress e estudando NodeJS e Angular para desenvolver projetos pessoais.
 
