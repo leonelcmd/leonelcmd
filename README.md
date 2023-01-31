@@ -8,7 +8,7 @@ Sou brasileiro e atualmente trabalho com testes automatizados, você pode se con
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonel.domagalski/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-domagalski/)
 
-I can also speak English and Italian, so if you're interested in contact me for some job oportunity or other reason feel free to e-mail me 🙂
+I can speak English and Italian, so if you're interested in contact feel free to send me an e-mail 🙂
 
 ![Leonel Domagalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonelcmd&show_icons=true&theme=dark)
 
